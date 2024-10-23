@@ -1,3 +1,6 @@
+<h1>Algorithmic Trading</h1>
+
+
 Algorithmic Trading with Momentum Strategy
 Algorithmic Trading is the use of computer programs to execute trades automatically based on predefined rules and algorithms. These algorithms can analyze market data, identify patterns, and make trading decisions faster than humans.
 
